@@ -5,5 +5,14 @@ vue audio 自定义组件
 
 [演示demo](https://donewenfu.github.io/vue-audio-component/)
 
+# 组件放在components 中的audio组件
+
+# 安装
+
+npm install
+
+# 运行
+npm run serve
+
 
 
