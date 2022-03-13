@@ -1,5 +1,6 @@
 # vue-audio-component
 vue audio 自定义组件
+vue 音频播放组件
 
 功能有 音频加速 音量调整
 
