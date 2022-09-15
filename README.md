@@ -4,7 +4,7 @@ vue 音频播放组件
 
 功能有 音频加速 音量调整
 
-[演示demo](https://donewenfu.github.io/vue-audio-component/index.html)
+[演示demo](https://donewenfu.github.io/vue-audio-component-vue-/)
 
 # 组件放在components 中的audio组件
 
