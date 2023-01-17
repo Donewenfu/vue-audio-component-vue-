@@ -1,19 +1,26 @@
-# vue-audio-component
-vue audio 自定义组件
-vue 音频播放组件
+# vue-audio-component 音频播放组件
 
-功能有 音频加速 音量调整
 
-[演示demo](https://donewenfu.github.io/vue-audio-component-vue-/)
+## 演示链接 🔑
 
-# 组件放在components 中的audio组件
+https://donewenfu.github.io/vue-audio-component-vue-/
 
-# 安装
+## 安装 🧸
 
+```
 npm install
+```
 
-# 运行
+ 
+
+## 运行 🎈
+
+```
 npm run serve
+```
 
 
 
+## 预览图
+
+![](https://p.ipic.vip/3m5rzk.png)
